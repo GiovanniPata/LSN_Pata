@@ -1,0 +1,1 @@
+L'esercizio era solo un integrazione nel codice c++, che si trova nella cartella "4_2"
