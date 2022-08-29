@@ -1,0 +1,1 @@
+L'esercizio prevede l'uso dello stesso codice c++ che si trova nella cartella "7_4"
